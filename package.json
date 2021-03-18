@@ -9,7 +9,7 @@
     "url": "https://github.com/youth95/xml-interpreter"
   },
   "scripts": {
-    "publish:npm": "npm publish --registry https://npmjs.com"
+    "publish:npm": "npm publish --registry https://registry.npmjs.com"
   },
   "files": [
     "README.md",
