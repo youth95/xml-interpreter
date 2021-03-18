@@ -1,6 +1,6 @@
 # XML Interpreter
 
-create nodes from xml by createNode and appendChildren.
+Create nodes from xml by createNode and appendChildren.
 
 ```javascript
 import { toJson } from "xml-interpreter";

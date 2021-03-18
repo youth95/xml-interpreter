@@ -4,6 +4,10 @@
   "main": "index.js",
   "author": "zmp <1016893501@qq.com>",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/youth95/xml-interpreter"
+  },
   "scripts": {
     "publish:npm": "npm publish --registry https://npmjs.com"
   },
