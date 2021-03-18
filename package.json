@@ -1,0 +1,15 @@
+{
+  "name": "xml-interpreter",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "zmp <1016893501@qq.com>",
+  "license": "MIT",
+  "scripts": {
+    "publish:npm": "npm publish --registry https://npmjs.com"
+  },
+  "files": [
+    "README.md",
+    "index.js",
+    "package.json"
+  ]
+}
